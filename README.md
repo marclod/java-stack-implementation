@@ -1,4 +1,4 @@
-#Stack Project in Java
+## Stack Project in Java
 
 ## Description  
 📚 **This project** is a **basic implementation of a data structure of the type Stack** in Java, using **interfaces and generics**. The aim is to demonstrate how to create a stack based on a **dynamic array**, providing essential operations. This project was developed to **assist in learning how sequential data structures work** in Java.
